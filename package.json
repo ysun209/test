@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ysun209@github.com/ysun209/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "workspaces": [
+    "./apps/*",
+    "./packages/*"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysun209/test/issues"
+  },
+  "homepage": "https://github.com/ysun209/test#readme",
+  "description": ""
+}
