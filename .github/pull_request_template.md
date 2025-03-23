@@ -5,6 +5,7 @@
 ## Test approaches
 
 <!-- Describe the testing strategies you used to verify that your changes are working as expected. -->
+
 - **Unit tests**: Describe any unit tests you wrote or ran.
 - **Manual testing**: Describe any manual testing steps you took.
 - **Integration tests**: If applicable, describe integration tests and their results.
@@ -12,6 +13,7 @@
 ## Notes for the code reviewer?
 
 <!-- Provide any additional information for the reviewer. -->
+
 - Are there any edge cases they should test?
 - Any known issues or limitations?
 - Specific parts of the code that need extra attention or explanation.
