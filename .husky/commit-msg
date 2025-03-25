@@ -1,2 +1,1 @@
-# Run commitlint with npx
 npx commitlint --edit $1
