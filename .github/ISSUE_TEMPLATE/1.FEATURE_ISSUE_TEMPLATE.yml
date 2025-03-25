@@ -15,14 +15,12 @@ body:
         As a 
         I want to 
         So that 
-      render: bash
     validations:
       required: true
   - type: input
     id: description
     attributes:
       label: Description
-      render: bash
     validations:
       required: true
   - type: input
@@ -30,7 +28,6 @@ body:
     attributes:
       label: Motivation
       description: Explain why this feature is needed and how it will benefit the project.
-      render: bash
     validations:
       required: false
   - type: textarea
