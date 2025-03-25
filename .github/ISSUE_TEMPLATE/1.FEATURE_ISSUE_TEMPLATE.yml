@@ -35,8 +35,6 @@ body:
     id: description
     attributes:
       label: Description
-      description: ""
-      value: |
       render: bash
     validations:
       required: true
@@ -45,5 +43,3 @@ body:
       label: Additional context
       description: |
         Add any other context, screenshots, or references to support the feature request. 
-      placeholder: |
-      value: |
