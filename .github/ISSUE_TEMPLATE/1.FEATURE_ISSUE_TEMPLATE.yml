@@ -50,8 +50,9 @@ body:
         - **Then** [expected outcome or result].
 
         **Examples:**
-          Given the user is on the login page, When the user clicks on the "Forgot Password?" link, Then the user should be redirected to the password recovery page.
-          Given the user is on the password recovery page, When the user enters a valid email address and clicks "Submit", Then a password reset link should be sent to the user's email address.
+        - Given the user is on the login page, When the user clicks on the "Forgot Password?" link, Then the user should be redirected to the password recovery page.
+        - Given the user is on the password recovery page, When the user enters a valid email address and clicks "Submit", Then a password reset link should be sent to the user's email address.
+        
         Make sure to cover edge cases and all scenarios that need validation.
       value: |
         - [ ] Given , When , Then .
