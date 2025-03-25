@@ -39,7 +39,7 @@ body:
         As a <!-- type of user -->
         I want to <!-- a specific feature or functionality -->
         So that <!-- the benefit or value it provides -->
-      render: html
+      render: markdown
     validations:
       required: true
   - type: textarea
