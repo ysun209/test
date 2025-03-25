@@ -33,9 +33,9 @@ body:
         For example:
 
         1. Go to <replace your> page.
-        1. On top right side, close to the <Account> menu
-        1. Some menu are not working properly.
-        1. Continue...
+        2. On top right side, close to the <Account> menu
+        3. Some menu are not working properly.
+        4. Continue...
 
         If you don't know exact steps, include any relevant details like:
 
@@ -65,7 +65,7 @@ body:
   - type: textarea
     id: extrainfo
     attributes:
-      label: If "yes" to above, please explain how you would technically implement this
+      label: If "Yes" to above, please explain how you would technically implement this
       description: For example reference any existing code
     validations:
       required: false
