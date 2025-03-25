@@ -3,7 +3,7 @@ description: Bugs, missing documentation, or unexpected behavior 🤔.
 title: "[Bug]: "
 labels: "🚦 status: awaiting triage"
 projects: ["Meow Meow Silly Studio"]
-type: Bug
+type: "Bug"
 body:
   - type: markdown
     attributes:
