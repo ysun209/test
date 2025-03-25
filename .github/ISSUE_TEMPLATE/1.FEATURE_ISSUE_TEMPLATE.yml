@@ -31,6 +31,19 @@ body:
 
         <!-- Add any other context, screenshots, or references to support the feature request. -->
   - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: "How do you trigger this bug? Please walk us through it step by step."
+      value: |
+        1.
+        2.
+        3.
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: textarea
     attributes:
       label: Additional context
       description: |
