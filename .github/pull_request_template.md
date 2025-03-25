@@ -4,7 +4,7 @@
 
 <!-- Close the issue this pr is linked to by typing # and the number of your issue, pr must link to an issue-->
 
-Closes
+Closes <!-- type # and select -->
 
 ## Description
 
