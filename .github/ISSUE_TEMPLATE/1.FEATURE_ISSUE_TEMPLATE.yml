@@ -13,10 +13,6 @@ body:
 
         - [ ] Clearly define what needs to be implemented.
         - [ ] Include specific requirements or conditions for the feature.
-
-        ## Motivation
-
-        <!-- Explain why this feature is needed and how it will benefit the project. -->
   - type: textarea
     id: user_story
     attributes:
@@ -40,11 +36,29 @@ body:
     id: motivation
     attributes:
       label: Motivation
+      description: Explain why this feature is needed and how it will benefit the project.
       render: bash
     validations:
       required: false
   - type: textarea
     attributes:
+      label: Acceptance Criteria
+      description: |
+        Please define the acceptance criteria for the feature. Use the following structure:
+        - **Given** [initial context or state],
+        - **When** [action/event to trigger the behavior],
+        - **Then** [expected outcome or result].
+        example: |
+          - [ ] Given the user is on the login page, When the user clicks on the "Forgot Password?" link, Then the user should be redirected to the password recovery page.
+          - [ ] Given the user is on the password recovery page, When the user enters a valid email address and clicks "Submit", Then a password reset link should be sent to the user's email address.
+        Make sure to cover edge cases and all scenarios that need validation.
+      placeholder: |
+        - [ ] Given , When , Then .
+        - [ ] Given , When , Then .
+  - type: textarea
+    attributes:
       label: Additional context
       description: |
         Add any other context, screenshots, or references to support the feature request.
+      placeholder: |
+        Any extra information that might help us investigate.
