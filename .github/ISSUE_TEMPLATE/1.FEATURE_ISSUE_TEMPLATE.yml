@@ -2,7 +2,7 @@ name: ✨ Feature Request
 description: I have a suggestion (and might want to implement myself 🙂)!
 title: "[Feature]: "
 labels: ["🚦 status: awaiting triage"]
-projects: ["Meow Meow Silly Studio"]
+projects: ["ysun209/#1"]
 # type: Feature
 body:
   - type: markdown

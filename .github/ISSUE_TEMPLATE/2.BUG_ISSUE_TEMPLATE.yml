@@ -2,7 +2,7 @@ name: 🐞 Bug Report
 description: Bugs, missing documentation, or unexpected behavior 🤔.
 title: "[Bug]: "
 labels: "🚦 status: awaiting triage"
-projects: ["Meow Meow Silly Studio"]
+projects: ["ysun209/#1"]
 # type: Bug
 body:
   - type: markdown
