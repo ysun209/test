@@ -40,7 +40,7 @@ body:
         1. Navigate to <the bug page>.
         2. On top right side, close to the <Account> menu.
         3. Notice some menu items are unresponsive.
-        4. I used the <Chrome> browser, version <90.0.4430.212> on a <Windows 10> machine with a resolution of <1920x1080>.
+        4. I used the <Chrome> browser, version <134.0.6998.165> on a <Windows 11> machine with a resolution of <1920x1080>.
         5. Continue...
     validations:
       required: true
