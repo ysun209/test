@@ -24,7 +24,7 @@ Closes
 <!-- Put an `x` in the boxes that apply -->
 
 - [ ] Make sure you are requesting to **pull a topic/feature/bugfix branch** (right side). Don't request the main branch!
-- [ ] Make sure you are making a pull request against the **canary branch** (left side). Also you should start _your branch_ off _our canary_.
+- [ ] Make sure you are making a pull request against the **dev branch** (left side). Also you should start _your branch_ off _our dev branch_.
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have added the necessary documentation (if appropriate)
 
