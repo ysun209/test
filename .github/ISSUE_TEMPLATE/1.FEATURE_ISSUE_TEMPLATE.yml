@@ -1,8 +1,9 @@
 name: ✨ Feature Request
 description: I have a suggestion (and might want to implement myself 🙂)!
-title: "[Feature]: "
+title: ""
 labels: ["🚦 status: awaiting triage"]
 projects: ["ysun209/1"]
+# projects: ["UOA-CS732-S1-2025/62"]
 # type: Feature
 body:
   - type: markdown

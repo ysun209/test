@@ -1,8 +1,9 @@
 name: 🐞 Bug Report
 description: Bugs, missing documentation, or unexpected behavior 🤔.
-title: "[Bug]: "
+title: ""
 labels: "🚦 status: awaiting triage"
-projects: ["ysun209/1"]
+projects: ["ysun209/62"]
+# projects: ["UOA-CS732-S1-2025/62"]
 # type: Bug
 body:
   - type: markdown
