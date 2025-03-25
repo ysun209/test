@@ -9,13 +9,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## User Story
-
-        As a <!-- type of user -->
-        I want to <!-- a specific feature or functionality -->
-        So that <!-- the benefit or value it provides -->
-
-
         ## Description:
 
         ## Acceptance Criteria
@@ -26,19 +19,24 @@ body:
         ## Motivation
 
         <!-- Explain why this feature is needed and how it will benefit the project. -->
-
-        ## Additional Context
-
-        <!-- Add any other context, screenshots, or references to support the feature request. -->
   - type: textarea
-    id: repro
+    id: user_story
     attributes:
       label: User Story
-      description: "As a <!-- type of user -->, I want to <!-- a specific feature or functionality --> So that <!-- the benefit or value it provides -->"
+      description: "As a <type of user>, I want to <a specific feature or functionality>. So that <the benefit or value it provides>."
       value: |
-        As a <!-- type of user -->
-        I want to <!-- a specific feature or functionality -->
-        So that <!-- the benefit or value it provides -->
+        As a 
+        I want to 
+        So that 
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: ""
+      value: |
       render: bash
     validations:
       required: true
@@ -46,8 +44,6 @@ body:
     attributes:
       label: Additional context
       description: |
-        Any extra information that might help us investigate. 
+        Add any other context, screenshots, or references to support the feature request. 
       placeholder: |
-        Steps to reproduce the bug, error messages, or other relevant information.
       value: |
-        <!-- Steps to reproduce the bug, error messages, or other relevant information. -->
