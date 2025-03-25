@@ -6,13 +6,6 @@ projects: ["ysun209/1"]
 # projects: ["UOA-CS732-S1-2025/62"]
 # type: Feature
 body:
-  - type: markdown
-    attributes:
-      value: |
-        ## Acceptance Criteria
-
-        - [ ] Clearly define what needs to be implemented.
-        - [ ] Include specific requirements or conditions for the feature.
   - type: textarea
     id: user_story
     attributes:
@@ -53,7 +46,7 @@ body:
         - Given the user is on the login page, When the user clicks on the "Forgot Password?" link, Then the user should be redirected to the password recovery page.
         - Given the user is on the password recovery page, When the user enters a valid email address and clicks "Submit", Then a password reset link should be sent to the user's email address.
 
-        Make sure to cover edge cases and all scenarios that need validation.
+        Make sure to cover edge cases and all scenarios that need **testing**.
       value: |
         - [ ] Given , When , Then .
         - [ ] Given , When , Then .
