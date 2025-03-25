@@ -2,7 +2,7 @@
 
 ## Issues
 
-<!-- Close the issue this pr is linked to by typing # and the number of your issue, pr must link to an issue-->
+<!-- Close the issue this pr is linked to by typing `space + #` and the number of your issue, pr must link to an issue-->
 
 Closes <!-- type # and select -->
 
