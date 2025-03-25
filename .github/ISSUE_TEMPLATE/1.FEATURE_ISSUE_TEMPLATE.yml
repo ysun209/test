@@ -34,12 +34,12 @@ body:
     id: repro
     attributes:
       label: User Story
-      description: "How do you trigger this bug? Please walk us through it step by step."
+      description: "As a <!-- type of user -->, I want to <!-- a specific feature or functionality --> So that <!-- the benefit or value it provides -->"
       value: |
         As a <!-- type of user -->
         I want to <!-- a specific feature or functionality -->
         So that <!-- the benefit or value it provides -->
-      render: markdown
+      render: bash
     validations:
       required: true
   - type: textarea
@@ -49,3 +49,5 @@ body:
         Any extra information that might help us investigate. 
       placeholder: |
         Steps to reproduce the bug, error messages, or other relevant information.
+      value: |
+        <!-- Steps to reproduce the bug, error messages, or other relevant information. -->
