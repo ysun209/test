@@ -33,14 +33,13 @@ body:
   - type: textarea
     id: repro
     attributes:
-      label: Reproduction steps
+      label: User Story
       description: "How do you trigger this bug? Please walk us through it step by step."
       value: |
-        1.
-        2.
-        3.
-        ...
-      render: bash
+        As a <!-- type of user -->
+        I want to <!-- a specific feature or functionality -->
+        So that <!-- the benefit or value it provides -->
+      render: html
     validations:
       required: true
   - type: textarea
