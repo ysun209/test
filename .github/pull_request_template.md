@@ -10,18 +10,7 @@ Closes
 
 <!-- Why are you making this change? What changes did you make? Describe your changes in detail -->
 
-## Types of changes
-
-<!-- Put an `x` in the boxes that apply -->
-
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Documentation Update (if none of the other choices apply)
-
 ## Checklist
-
-<!-- Put an `x` in the boxes that apply -->
 
 - [ ] Make sure you are requesting to **pull a topic/feature/bugfix branch** (right side). Don't request the main branch!
 - [ ] Make sure you are making a pull request against the **dev branch** (left side). Also you should start _your branch_ off _our dev branch_.
