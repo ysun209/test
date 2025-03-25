@@ -1,5 +1,15 @@
 <!-- Please provide a general summary of your changes in the Title above :) -->
 
+## Issues
+
+<!-- Close the issue this pr is linked to by typing # and the number of your issue, pr must link to an issue-->
+
+Closes
+
+## Description
+
+<!-- Why are you making this change? What changes did you make? Describe your changes in detail -->
+
 ## Types of changes
 
 <!-- Put an `x` in the boxes that apply -->
@@ -17,16 +27,6 @@
 - [ ] Make sure you are making a pull request against the **canary branch** (left side). Also you should start _your branch_ off _our canary_.
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have added the necessary documentation (if appropriate)
-
-## Issues
-
-<!-- Close the issue this pr is linked to by typing # and the number of your issue, pr must link to an issue-->
-
-Closes
-
-## Description
-
-<!-- Why are you making this change? What changes did you make? Describe your changes in detail -->
 
 ## How To Review
 
