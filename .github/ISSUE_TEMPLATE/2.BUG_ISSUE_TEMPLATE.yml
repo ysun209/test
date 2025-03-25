@@ -1,0 +1,27 @@
+name: 🐞 Bug Report
+about: Bugs, missing documentation, or unexpected behavior 🤔.
+title: "[Bug]: "
+type: Bug
+labels: "🚦 status: awaiting triage"
+projects: ["Meow Meow Silly Studio"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## User Story
+
+        As a [type of user], I want [a specific feature or functionality] so that [the benefit or value it provides].
+
+        ## Acceptance Criteria
+
+        - [ ] Clearly define what needs to be implemented.
+        - [ ] Include specific requirements or conditions for the feature.
+
+        ## Motivation
+
+        Explain why this feature is needed and how it will benefit the project.
+
+        ## Additional Context
+
+        Add any other context, screenshots, or references to support the feature request.
+

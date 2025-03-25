@@ -1,0 +1,32 @@
+name: ✨ Feature Request
+about: I have a suggestion (and might want to implement myself 🙂)!
+title: "[Feature]: "
+type: Feature
+labels: ["🚦 status: awaiting triage"]
+projects: ["Meow Meow Silly Studio"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## User Story
+
+        As a <!-- type of user -->
+        I want to <!-- a specific feature or functionality -->
+        So that <!-- the benefit or value it provides -->
+
+
+        ## Description:
+
+        ## Acceptance Criteria
+
+        - [ ] Clearly define what needs to be implemented.
+        - [ ] Include specific requirements or conditions for the feature.
+
+        ## Motivation
+
+        <!-- Explain why this feature is needed and how it will benefit the project. -->
+
+        ## Additional Context
+
+        <!-- Add any other context, screenshots, or references to support the feature request. -->
