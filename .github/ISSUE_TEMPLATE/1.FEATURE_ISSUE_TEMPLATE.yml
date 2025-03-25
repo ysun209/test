@@ -9,8 +9,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Description:
-
         ## Acceptance Criteria
 
         - [ ] Clearly define what needs to be implemented.
@@ -23,7 +21,7 @@ body:
     id: user_story
     attributes:
       label: User Story
-      description: "As a <type of user>, I want to <a specific feature or functionality>. So that <the benefit or value it provides>."
+      description: "As a **type of user**, I want to **a specific feature or functionality**. So that **the benefit or value it provides**."
       value: |
         As a 
         I want to 
@@ -39,7 +37,15 @@ body:
     validations:
       required: true
   - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      render: bash
+    validations:
+      required: false
+  - type: textarea
     attributes:
       label: Additional context
       description: |
         Add any other context, screenshots, or references to support the feature request. 
+      required: false
