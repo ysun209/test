@@ -1,6 +1,6 @@
 name: ✨ Feature Request
 description: I have a suggestion (and might want to implement myself 🙂)!
-title: "[FEATURE] "
+# title: "[FEATURE] "
 labels: ["🚦 status: awaiting triage"]
 projects: ["ysun209/1"]
 # projects: ["UOA-CS732-S1-2025/62"]
@@ -18,14 +18,14 @@ body:
       render: bash
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: description
     attributes:
       label: Description
       render: bash
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: motivation
     attributes:
       label: Motivation
