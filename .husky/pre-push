@@ -1,1 +1,2 @@
+#Add a comment
 node ./scripts/validate-branch.js
