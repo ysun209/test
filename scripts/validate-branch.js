@@ -10,9 +10,9 @@ const allowedPrefixes = [
   'feature/',
   'fix/',
   'hotfix/',
-  'release/',
   'chore/',
   'test/',
+  'release/',
 ];
 
 // Check if the branch name matches the allowed prefixes
