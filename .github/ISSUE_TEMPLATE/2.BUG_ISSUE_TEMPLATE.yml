@@ -1,9 +1,9 @@
 name: 🐞 Bug Report
-about: Bugs, missing documentation, or unexpected behavior 🤔.
+description: Bugs, missing documentation, or unexpected behavior 🤔.
 title: "[Bug]: "
-type: Bug
 labels: "🚦 status: awaiting triage"
 projects: ["Meow Meow Silly Studio"]
+type: Bug
 body:
   - type: markdown
     attributes:
@@ -24,4 +24,10 @@ body:
         ## Additional Context
 
         Add any other context, screenshots, or references to support the feature request.
-
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: |
+        Any extra information that might help us investigate. 
+      placeholder: |
+        Steps to reproduce the bug, error messages, or other relevant information.
