@@ -1,5 +1,6 @@
 {
   "name": "test",
+  "displayName": "Meow Meow Silly Studio",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -17,16 +18,16 @@
   },
   "keywords": [],
   "author": "",
-  "workspaces": [
-    "./apps/*",
-    "./packages/*"
-  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ysun209/test/issues"
   },
   "homepage": "https://github.com/ysun209/test#readme",
   "description": "",
+  "workspaces": [
+    "./apps/*",
+    "./packages/*"
+  ],
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
