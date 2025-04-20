@@ -1,7 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2WEVFWWf)
 
 # About Blogonotion
-Blogonotion is a modern blogging platform built using Golang and React, inspired by the clean and intuitive design of Notion. It allows users to create, edit, and manage blog posts with a seamless and user-friendly interface. The platform combines the performance of a Go backend with the flexibility of a React frontend to deliver a fast and responsive experience.
+Blogonotion is a modern blogging platform built using Golang and React, inspired by the clean and intuitive design of Notion. It allows users to create, edit, and manage blog posts with a seamless and user-friendly interface. The tech demo is based on the CS 732 example [CS732 examples - A more complex full-stack application!
+](https://github.com/UOA-CS732-SE750/cs732-examples/tree/main/example-22-fullstack)
 
 # TODO add an image here
 
