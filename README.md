@@ -11,17 +11,18 @@ A step-by-step guide to set up and run the tech demo on your local device.
 
 Before starting, ensure you have the following installed and set up on your device:
 
-### Node.js
-Install the latest version of Node.js from the [Node.js official website](https://nodejs.org/). Verify the installation by running:
-```bash
-node -v
-npm -v
-```
 
 ### Go
 Download and install Go from the [Go official website](https://go.dev/). Verify the installation by running:
 ```bash
 go version
+```
+
+### Node.js
+Install the latest version of Node.js from the [Node.js official website](https://nodejs.org/). Verify the installation by running:
+```bash
+node -v
+npm -v
 ```
 
 ### MongoDB
@@ -32,6 +33,7 @@ mongod --version
 
 Ensure the MongoDB server is running before proceeding with the next steps.
 
+If you haven't installed MongoDB, you can download the `.env` file from Assignment - Private info / API key / etc submission. Rename it to `.env` if needed, and paste it into both the `backend-go` and `backend-express` folders to use an online MongoDB database.
 
 
 ## Steps
@@ -39,7 +41,7 @@ Ensure the MongoDB server is running before proceeding with the next steps.
 ### Step 1: Clone the Repository
 Obtain a local copy of the project repository to your device.
 
-1. Ensure you have installed Git, open a terminal or command prompt.
+1. Ensure you have installed [Git], open a terminal or command prompt.
 2. Run the following command to clone the repository:
     ```bash
     git clone https://github.com/UOA-CS732-S1-2025/cs732-assignment-ysun209
@@ -48,7 +50,7 @@ Obtain a local copy of the project repository to your device.
     ```bash
     cd cs732-assignment-ysun209
     ```
-    If you haven't installed Git, you can download the repository as a ZIP file using the following link: [Download the ZIP repository](https://github.com/UOA-CS732-S1-2025/cs732-assignment-ysun209/archive/refs/heads/main.zip)  
+    If you haven't installed Git, you can download the repository as a ZIP file using the following link: [Download the ZIP repository](https://github.com/UOA-CS732-S1-2025/cs732-assignment-ysun209/archive/refs/heads/main.zip)
 
 ### Step 2
 
