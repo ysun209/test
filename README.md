@@ -51,11 +51,11 @@ If you haven't installed MongoDB, you can download the `.env` file from Assignme
     ```bash
     git clone https://github.com/UOA-CS732-S1-2025/cs732-assignment-ysun209
     ```
+    If you haven't installed Git, you can download the repository as a ZIP file using the following link: [Download the ZIP repository](https://github.com/UOA-CS732-S1-2025/cs732-assignment-ysun209/archive/refs/heads/main.zip)
 3. Navigate into the cloned repository directory:
     ```bash
     cd cs732-assignment-ysun209
     ```
-    If you haven't installed Git, you can download the repository as a ZIP file using the following link: [Download the ZIP repository](https://github.com/UOA-CS732-S1-2025/cs732-assignment-ysun209/archive/refs/heads/main.zip)
 
 ### Step 2: Install Go Packages
 Set up and run the Go backend for the application.
