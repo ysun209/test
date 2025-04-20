@@ -122,8 +122,7 @@ Once both the backend and frontend are running, open your web browser and naviga
 ```
 http://localhost:5173
 ```
-
-**Backend Production Server:**  
+**Backend Production Server:** (Make sure you build the React frontend using `npm run build`)
 ```
 http://localhost:3000
 ```
