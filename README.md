@@ -42,7 +42,7 @@ Ensure the MongoDB server is running before proceeding with the next steps.
 If you haven't installed MongoDB, you can download the `.env` file from Assignment - Private info / API key / etc submission. Rename it to `.env` if needed, and paste it into both the `backend-go` and `backend-express` folders to use an online MongoDB database.
 
 
-## Steps
+## Steps to Start the Server
 
 ### Step 1: Clone the Repository
 
